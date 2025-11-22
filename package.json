@@ -1,0 +1,12 @@
+{
+  "name": "n8n-nodes-convert-file-json-enhanced",
+  "version": "1.0.0",
+  "description": "Custom Convert File to JSON (Enhanced) node",
+  "author": "Ian",
+  "license": "MIT",
+  "n8n": {
+    "nodes": [
+      "nodes/ConvertFileToJsonEnhanced.node.js"
+    ]
+  }
+}
