@@ -225,4 +225,4 @@ class ConvertFileToJsonEnhanced {
     }
 }
 
-module.exports.nodeClass = ConvertFileToJsonEnhanced;
+module.exports = { nodeClass: ConvertFileToJsonEnhanced };
