@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-convert-file-json-enhanced",
-  "version": "1.0.3"
+  "version": "1.0.3",
   "description": "Convert any file (PDF, Word, Excel, Images, Text) to JSON with enhanced extraction for n8n.",
   "keywords": ["n8n", "n8n-nodes", "file", "json", "convert"],
   "author": "naifue",
@@ -18,7 +18,7 @@
     "pdf-parse": "^1.1.1",
     "xlsx": "^0.18.5",
     "docx": "^8.3.2",
-        "mammoth": "^1.5.0",
+    "mammoth": "^1.5.0",
     "tesseract.js": "^4.0.3"
   }
 }
